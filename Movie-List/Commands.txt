@@ -1,0 +1,38 @@
+10	tt9114286	2022	161	"Action,Adventure,Drama" Black Panther: Wakanda Forever
+10	tt1630029	2022 	192 	"Action,Adventure,Fantasy,Sci-Fi" Avatar: The Way of Water
+10	tt1064834	2022	118	"Action,Adventure,Comedy,Fantasy,Romance,Sci-Fi" Thor: Love and Thunder
+
+10	tt4154796	2019	181	"Superhero,Tragedy,Action,Adventure" Avengers: Endgame
+
+11    	tt9114286
+11	tt0088763
+
+11	tt9004287
+
+13
+
+20
+
+21
+
+22	tt0120338 tt0499549
+22	tt0065860 tt9200000
+
+22	tt9350000 tt9580000
+
+23	bst1.txt
+23	bst2.txt
+
+12	tt1323594
+12	tt0133093
+
+12	tt9004287
+
+11	tt1323594
+
+20
+
+21
+
+
+99  

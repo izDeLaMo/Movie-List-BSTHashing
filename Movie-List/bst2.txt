@@ -1,0 +1,28 @@
+tt0133093	1999	136	"Action,Sci-Fi"					The Matrix
+tt0088763	1985	116	"Adventure,Comedy,Sci-Fi"			Back to the Future
+tt0109830	1994	142	"Drama,Romance"					Forrest Gump
+tt0107614	1993	125	"Comedy,Drama,Family"				Mrs. Doubtfire
+tt0105417	1992	100	"Comedy,Family,Music"				Sister Act
+tt0097165	1989	128	"Comedy,Drama"					Dead Poets Society
+tt0087344	1985	87	"Action,Sci-Fi,Thriller"			Godzilla
+tt0089371	205	86	"Jungle Adventure,Comedy,Family"		Madagascar
+tt1323594	2010	95	"Adventure,Comedy,Crime" 			Despicable Me
+tt1028576	2010	123	"Biography,Drama, Family" 			Secretariat
+tt0499549	2009	162	"Action,Adventure,Fantasy,Sci-Fi" 		Avatar
+tt0212346	2000	109	"Action,Comedy,Crime,Romance" 			Miss Congeniality
+tt9114286	2022	161	"Action,Adventure,Drama" 			Black Panther: Wakanda Forever
+tt1630029	2022 	192 	"Action,Adventure,Fantasy,Sci-Fi" 		Avatar: The Way of Water
+tt1064834	2022	118	"Action,Adventure,Comedy,Fantasy,Romance,Sci-Fi" Thor: Love and Thunder
+tt2294629	2013	102	"Fairy Tale,Pop Musical, Adventure, Comedy" 	Frozen
+tt0112431	1995	91	"Comedy,Drama,Family" 				Babe
+tt4154796	2019	181	"Superhero,Tragedy,Action,Adventure" 		Avengers: Endgame
+tt0078346	1978	143	"Superhero,Action,Adventure" 			Superman
+tt0075860	1977	138	"Sci-Fi,Drama" 					Close Encounters of the Third Kind
+tt0083866	1982	115	"Sci-Fi,Adventure,Family" 			E.T. The Extra Terrestrial
+tt0120338	1997	194	"Disaster,Romance,Tragedy,Drama" 		Titanic
+tt0108160	1993	105	"Romance,Comedy,Drama"				Sleepless in Seattle
+tt0128853	1998	119	"Romance,Comedy,Drama"				You've Got Mail
+tt1825683	2018	134	"Action,Adventure,Sci-Fi"			Black Panther
+tt2126355	2015	114	"Disaster,Action,Adventure,Thriller"		San Andreas
+
+END
